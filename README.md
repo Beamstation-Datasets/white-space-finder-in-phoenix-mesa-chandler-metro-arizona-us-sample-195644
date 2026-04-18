@@ -9,9 +9,9 @@
 | Dataset ID | `195644` |
 | Location | Phoenix-Mesa-Chandler, AZ |
 | Category | Restaurants |
-| Full dataset size | 76 records |
-| Free sample size | 7 records (9.21%) |
-| Last export | 2026-04-07T23:41:54.763844+00:00 |
+| Full dataset size | 74 records |
+| Free sample size | 7 records (9.46%) |
+| Last export | 2026-04-15T05:22:38.012417+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-phoenix-mesa-chandler-metro-arizona-us-sample-195644/releases/download/sample-latest/beamstation_195644_food_and_drink-us-phoenixmesachandleraz_SAMPLE_DIST.csv) |
 
 ## What is in this sample
