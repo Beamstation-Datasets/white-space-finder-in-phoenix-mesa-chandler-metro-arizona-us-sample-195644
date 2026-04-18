@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Phoenix-Mesa-Chandler, AZ that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Phoenix-Mesa-Chandler (Metro), Arizona, US",
-  "export_job_id": "e0014e7c-9c5a-469d-b396-37bd62d7a704",
+  "export_job_id": "f6489b3d-cc30-4bf1-8ddf-0d3dcc2fb3a2",
   "github_org": "Beamstation-Datasets",
   "id_short": 195644,
   "location_name": "Phoenix-Mesa-Chandler, AZ",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-phoenix-mesa-chandler-metro-arizona-us-sample-195644",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/195644/beamstation_195644_food_and_drink-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
-  "sample_pct": 9.21,
+  "sample_pct": 9.46,
   "sample_records": 7,
-  "sample_sha256": "d4c104b4cad49fe52fb2280912bd06ac144f9ba9329eecd1e643e9808ff1b0d5",
-  "sample_size_bytes": 43751,
-  "total_records": 76,
-  "updated_at": "2026-04-07T23:41:54.763844+00:00"
+  "sample_sha256": "c542ddc5cc3dab34bd5646f397ec6e03b890687888ca0149e4e7da7a2cc8207f",
+  "sample_size_bytes": 43792,
+  "total_records": 74,
+  "updated_at": "2026-04-15T05:22:38.012417+00:00"
 }
