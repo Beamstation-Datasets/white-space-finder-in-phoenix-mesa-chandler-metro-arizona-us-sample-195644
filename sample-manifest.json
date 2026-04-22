@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f6489b3d-cc30-4bf1-8ddf-0d3dcc2fb3a2",
+  "export_job_id": "b14ca2b4-f852-4fdc-b0ab-b5752c792c16",
   "id_short": 195644,
-  "published_at": "2026-04-18T07:34:08Z",
+  "published_at": "2026-04-22T19:22:15Z",
   "repo_name": "white-space-finder-in-phoenix-mesa-chandler-metro-arizona-us-sample-195644",
   "sample_asset_name": "beamstation_195644_food_and_drink-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/195644/beamstation_195644_food_and_drink-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "c542ddc5cc3dab34bd5646f397ec6e03b890687888ca0149e4e7da7a2cc8207f",
-  "sample_size_bytes": 43792,
-  "total_records": 74
+  "sample_records": 6,
+  "sample_sha256": "977b464583ef3495379ad7342c260be6b0a7722a8abba4caebc8e6dc82be4d28",
+  "sample_size_bytes": 40022,
+  "total_records": 68
 }
